@@ -4,4 +4,4 @@ dist:
 - bionic
 arch: arm64
 script:
-  - echo "Hello world, it's direct commit!!!!111222"
+  - echo "Hello world, it's direct commit!!!!111222333"
