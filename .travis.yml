@@ -1,3 +1,4 @@
+os: linux
 dist: focal
 script:
- - echo "Hello world"
+  - echo "Hello world"
