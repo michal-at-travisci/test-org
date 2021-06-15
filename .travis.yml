@@ -1,5 +1,7 @@
 os: linux #some comment
-dist: focal
+dist: 
+- focal
+- bionic
 arch: arm64
 script:
   - echo "Hello world, it's PR!"
