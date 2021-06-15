@@ -2,4 +2,4 @@ os: linux #some comment
 dist: focal
 arch: arm64
 script:
-  - echo "Hello world"
+  - echo "Hello world, it's PR!"
