@@ -1,4 +1,4 @@
-os: linux
+os: linux #some comment
 dist: focal
 script:
   - echo "Hello world"
