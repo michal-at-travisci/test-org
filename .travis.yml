@@ -4,4 +4,4 @@ dist:
 - bionic
 arch: arm64
 script:
-  - echo "Hello world, it's PR!"
+  - echo "Hello world, it's direct commit!"
